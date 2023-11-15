@@ -27,11 +27,6 @@ when the timer goes stop game is over
 - HTML and CSS for structuring and styling the game interface.
 - JavaScript for implementing game logic, bubble generation, hit detection, and score tracking.
 
-## Getting Started
-
-1. Clone this repository: `git clone https://github.com/your-username/bubble-game.git`
-2. Open the `index.html` file in your preferred web browser.
-3. Start popping bubbles and aim for the highest score!
 
 ## Contributing
 
